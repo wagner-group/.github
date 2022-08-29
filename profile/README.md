@@ -1,4 +1,4 @@
-Here we have release of source code and/or data for research projects from [David Wagner](https://people.eecs.berkeley.edu/~daw/)'s research group at UC Berkeley.
+Here we release source code and/or data for research projects from [David Wagner](https://people.eecs.berkeley.edu/~daw/)'s research group at UC Berkeley.
 
 - *Part-Based Models Improve Adversarial Robustness*: https://github.com/chawins/adv-part-model
 
