@@ -16,4 +16,6 @@ Here we release source code and/or data for research projects from [David Wagner
 
 - *Defending Against Patch Adversarial Attacks with Robust Self-Attention*: https://github.com/wagner-group/robust-self-attention
 
+- *Model-Agnostic Defense for Lane Detection against Adversarial Attack*: https://github.com/henryzxu/lane-verification
+
 - *Minimum-Norm Adversarial Examples on KNN and KNN-Based Models*: https://github.com/chawins/knn-defense
