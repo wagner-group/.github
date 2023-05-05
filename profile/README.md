@@ -1,5 +1,7 @@
 Here we release source code and/or data for research projects from [David Wagner](https://people.eecs.berkeley.edu/~daw/)'s research group at UC Berkeley.
 
+- *REAP: A Large-Scale Realistic Adversarial Patch Benchmark*: https://github.com/wagner-group/reap-benchmark
+
 - *Part-Based Models Improve Adversarial Robustness*: https://github.com/chawins/adv-part-model
 
 - *SLIP: Self-supervision meets Language-Image Pre-training*: https://github.com/facebookresearch/SLIP
